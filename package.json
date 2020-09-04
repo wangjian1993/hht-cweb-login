@@ -20,7 +20,7 @@
     "mockjs": "^1.0.1-beta3",
     "normalize.css": "^7.0.0",
     "nprogress": "^0.2.0",
-    "showdown": "^1.7.2",
+    "showdown": "^1.9.1",
     "simplemde": "^1.11.2",
     "v-distpicker": "^1.0.8",
     "vue": "^2.5.2",
